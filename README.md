@@ -1,6 +1,7 @@
 📊 Project Title
 
-End-to-End Sales & Customer Intelligence Dashboard (AdventureWorks)
+Adventure-Works-Sales-Dashboard
+
 
 🧩 Business Problem
 
