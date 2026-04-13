@@ -1,7 +1,7 @@
 # 📊 Adventure Works Sales Dashboard
 
 ## 🧩 Business Problem
-Businesses need more than just sales reports—they require a holistic view of both revenue performance and customer behavior to drive growth.
+Businesses need more than just sales reports;they require a holistic view of both revenue performance and customer behavior to drive growth.
 
 **Key challenges include:**
 - Identifying high value vs low value customers  
