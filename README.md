@@ -91,6 +91,11 @@ Provides insights into customer behavior and value.
 Supports customer retention strategies, targeted marketing, and identification of high-value customers.
 
 ---
+**Dashboard**
+![Executive Page Dashboard](Images/executive_page.png)
+![Territory Page Dashboard](Images/territory_page.png)
+![Product Page Dashboard](Images/product_page.png)
+![Customer Page Dashboard](Images/customer_page.png)
 
 ## 📌 Conclusion
 The analysis reveals that overall sales performance has shown a steady upward trend, with certain periods experiencing accelerated growth driven by increased order volume. However, profitability is not uniform across all products, as some high revenue items generate lower margins and exhibit higher return rates, indicating opportunities for cost optimization and quality improvement.
