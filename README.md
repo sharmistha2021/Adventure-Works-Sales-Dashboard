@@ -92,10 +92,16 @@ Supports customer retention strategies, targeted marketing, and identification o
 
 ---
 **Dashboard**
-![Executive Page Dashboard](Images/executive_page.png)
-![Territory Page Dashboard](Images/territory_page.png)
-![Product Page Dashboard](Images/product_page.png)
-![Customer Page Dashboard](Images/customer_page.png)
+<p align="center">
+  <img src="Images/executive_page.png" width="45%" />
+  <img src="Images/territory_page.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="Images/product_page.png" width="45%" />
+  <img src="Images/customer_page.png" width="45%" />
+</p>
+---
 
 ## 📌 Conclusion
 The analysis reveals that overall sales performance has shown a steady upward trend, with certain periods experiencing accelerated growth driven by increased order volume. However, profitability is not uniform across all products, as some high revenue items generate lower margins and exhibit higher return rates, indicating opportunities for cost optimization and quality improvement.
