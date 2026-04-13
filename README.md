@@ -93,19 +93,19 @@ Supports customer retention strategies, targeted marketing, and identification o
 ---
 **Dashboard**
 <p align="center">
-  <img src="Images/executive_page.png" width="900"/>
+  <img src="Images/executive_page.png" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="Images/territory_page.png" width="900"/>
+  <img src="Images/territory_page.png" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="Images/product_page.png" width="900"/>
+  <img src="Images/product_page.png" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="Images/customer page.png" width="900"/>
+  <img src="Images/customer page.png" width="1000"/>
 </p>
 ---
 
